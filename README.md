@@ -1,2 +1,2 @@
-# ethereummixer
+# Ethereum mixer
 Ethereum  mixer
